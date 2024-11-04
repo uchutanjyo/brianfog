@@ -1,6 +1,6 @@
-import {Container, Header, SubHeader, Link, LinkList, LinkItem, Description } from './LinkTree.styles'
+import {Container, Header, SubHeader, Link, LinkList, LinkItem, Description } from './PersonalSite.styles'
 
-function LinkTree() {
+function PersonalSite() {
     return (
       <Container>
                 <Header>personal site</Header>
@@ -13,4 +13,4 @@ function LinkTree() {
     );
   }
   
-  export default LinkTree;
+  export default PersonalSite;
