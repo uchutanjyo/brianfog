@@ -8,8 +8,10 @@ function LinkTree() {
 
 <SubHeader>*SPECIAL*</SubHeader>
         <LinkList>
-        nothing here
-          {/* <LinkItem>
+        <LinkItem>
+        <Link href="personalsite">2003-style prsonal website</Link>
+        <Description>may delete</Description>
+          </LinkItem>          {/* <LinkItem>
             <Link href="https://www.youtube.com/watch?v=1TUQ1Fus6qo&ab_channel=MechForestSound">battle milk 1st show - live at Wenona Lodge (Track Could Bend Number 87)</Link>
          <Description>Thank you Joe!</Description>
           </LinkItem>
