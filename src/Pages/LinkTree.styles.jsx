@@ -19,21 +19,38 @@ export const Header = styled.h1`
 
 export const SubHeader = styled.h3`
   color: #4a8581;
+  text-decoration: underline;
+
+`;
+
+export const SubSubHeader = styled.div`
+  color: #709896;
 `;
 
 export const LinkList = styled.div`
-  list-style: none;
-  padding: 0;
-  margin-bottom: 70px;
+list-style: none;
+padding: 0;
+margin-bottom: 50px;
+display: flex;
+flex-direction: column;
+color: white
 `;
 
 export const LinkItem = styled.div`
-  margin-bottom: 10px;
+margin-bottom: 10px;
 `;
 
 export const Link = styled.a`
-  color: #007bff;
   text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+`;
+
+export const SubLink = styled.a`
+  text-decoration: italic;
+  margin-left: 1em;
 
   &:hover {
     text-decoration: underline;
@@ -43,5 +60,15 @@ export const Link = styled.a`
 export const Description = styled.div`
   list-style: none;
   padding: 0;
-font-style: italic`;
+font-style: italic;
+margin-bottom: 20px
+`;
 
+
+
+export const LinkBox = styled.div`
+  /* padding: 1em; */
+  border: 1px dotted #737373;
+  display: flex;
+flex-direction: column;
+  `;

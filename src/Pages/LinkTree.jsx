@@ -1,4 +1,4 @@
-import {Container, Header, SubHeader, Link, LinkList, LinkItem, Description } from './LinkTree.styles'
+import {Container, Header, SubHeader, Link, LinkList, LinkItem, Description, SubLink, SubSubHeader, LinkBox } from './LinkTree.styles'
 
 function LinkTree() {
     return (
@@ -8,10 +8,8 @@ function LinkTree() {
 
 <SubHeader>*SPECIAL*</SubHeader>
         <LinkList>
-        <LinkItem>
-        <Link href="personalsite">2003-style prsonal website</Link>
-        <Description>may delete</Description>
-          </LinkItem>          {/* <LinkItem>
+        <LinkBox>
+                 {/* <LinkItem>
             <Link href="https://www.youtube.com/watch?v=1TUQ1Fus6qo&ab_channel=MechForestSound">battle milk 1st show - live at Wenona Lodge (Track Could Bend Number 87)</Link>
          <Description>Thank you Joe!</Description>
           </LinkItem>
@@ -21,6 +19,17 @@ function LinkTree() {
           </LinkItem>
           <LinkItem>
             <Link href="https://battlemilk.bandcamp.com">battle milk Bandcamp -coming</Link>
+          </LinkItem> */}
+          <SubSubHeader>shows coming up</SubSubHeader>
+          <LinkItem>battle milk opening for eric laska, karen ng, raph foisy, ben bennett - Thurs Dec 12, Tranzac Living Room
+          </LinkItem>
+          {/* <br/>
+          <br/>
+          <br/> */}
+</LinkBox>
+          {/* <LinkItem>
+        <Link href="personalsite">2003-style prsonal website</Link>
+        <Description>may delete</Description>
           </LinkItem> */}
         </LinkList>
 
@@ -153,6 +162,52 @@ function LinkTree() {
           <LinkItem>
             <Link href="#">Link 3</Link>
           </LinkItem> */}
+        </LinkList>
+
+        <SubHeader>Stuff I Like</SubHeader>
+        <LinkList>
+        <Description>*i do not necessarily subscribe to every single thought, belief, feeling etc. of every single person or page listed below . but maybe i do for some. ok?*</Description>
+        </LinkList>
+
+        <SubHeader>Youtube Channels</SubHeader>
+        <Description>channel name w/ fav or example videos</Description>
+
+        <LinkList>
+          <LinkItem>
+   <SubSubHeader>Georg Rockall-Schmidt</SubSubHeader>
+
+          </LinkItem>
+          <LinkBox>
+          <SubLink>
+            <Link href="https://www.youtube.com/watch?v=uCH9cx3hrbM">One Decade to Midnight (part 1): Problematique</Link>
+          </SubLink>
+          <SubLink>
+            <Link href="https://www.youtube.com/watch?v=2VTvnWE0oJc">One Decade to Midnight (part 2): Polycrisis</Link>
+          </SubLink>
+          <SubLink>
+            <Link href="https://www.youtube.com/watch?v=YRkBrfvNKVE">One Decade to Midnight (part 3): Failure Cascade</Link>
+          </SubLink>
+          </LinkBox>
+          </LinkList>
+
+
+
+        <LinkList>
+          <LinkItem>
+            <SubSubHeader>Metaphysical Exile</SubSubHeader>
+
+          </LinkItem>
+          <LinkBox>
+          <SubLink>
+            <Link href="https://www.youtube.com/watch?v=V6XMSQuxZgk">Nature's Unluckiest Children</Link>
+          </SubLink>
+          </LinkBox>
+
+
+
+          
+          
+      
         </LinkList>
       </Container>
     );

@@ -21,6 +21,22 @@ export const SubHeader = styled.h3`
   color: #4a8581;
 `;
 
+export const Paragraph = styled.div`
+text-align: left;
+
+`;
+
+export const List = styled.ul`
+text-align: left;
+list-style: none;
+
+
+`;
+
+export const ListItem = styled.li`
+
+`;
+
 export const LinkList = styled.div`
   list-style: none;
   padding: 0;
