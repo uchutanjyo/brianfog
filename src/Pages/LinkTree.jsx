@@ -3,7 +3,7 @@ import {Container, Header, SubHeader, Link, LinkList, LinkItem, Description, Sub
 function LinkTree() {
     return (
       <Container>
-                <Header>brian fog drum & noise &</Header>
+                <Header>MATT E PROJECTS ETC.</Header>
 
 
 <SubHeader>*SPECIAL*</SubHeader>
@@ -21,7 +21,7 @@ function LinkTree() {
             <Link href="https://battlemilk.bandcamp.com">battle milk Bandcamp -coming</Link>
           </LinkItem> */}
           <SubSubHeader>shows coming up</SubSubHeader>
-          <LinkItem>battle milk opening for eric laska, karen ng, raph foisy, ben bennett - Thurs Dec 12, Tranzac Living Room
+          <LinkItem>MONTREAL IN JUNE  KITCHENER IN JUNE
           </LinkItem>
           {/* <br/>
           <br/>
@@ -35,127 +35,127 @@ function LinkTree() {
 
                 <LinkList>
 
-        <SubHeader>Brian Fog-related</SubHeader>
+        <SubHeader>bandcamp links</SubHeader>
         <LinkItem>
-            <Link href="https://brianfog.bandcamp.com/">Brian Fog Bandcamp</Link>
+            <Link href="https://postictal.bandcamp.com/">postictal (no tracks completed yet)</Link>
+          </LinkItem>
+        <LinkItem>
+            <Link href="https://brianfog.bandcamp.com/">brian fog</Link>
           </LinkItem>
           <LinkItem>
-            <Link href="https://www.instagram.com/mite.hole/">Brian Fog Instagram</Link>
+            <Link href="https://brianfog.bandcamp.com/">battle milk</Link>
           </LinkItem>
           <LinkItem>
-          
-            <Link href="https://www.youtube.com/watch?v=K9uhxRw5sWc&ab_channel=Dddddd"> Brian Fog - live at Bar Orwell March 28 2024 </Link>
-            <Description>thx to Blash.</Description>
+            <Link href="https://mitehole.bandcamp.com/">mite (earlier solo project)</Link>
           </LinkItem>
           <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=Qac0MhMBNTY&t=616s&pp=ygUQYnJpYW4gZm9nIG9yd2VsbA%3D%3D">Brian Fog - live at Bar Orwell December 3 2023</Link>
-            <Description>thx to Blash.</Description>
+            <Link href="https://lavagland.bandcamp.com/">lava gland</Link>
           </LinkItem>
           <LinkItem>
+            <Link href="https://traumaticacid.bandcamp.com/">traumatic acid</Link>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://brianchampagne.bandcamp.com/">brian champagne</Link>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://bonecrate.bandcamp.com/album/the-wrestling-noise-compiliation-vol-2">bone crate - wrestling noise compilation</Link>
+          <Description>feat. BRIAN FOG - EXTICTRANFM </Description>
+          </LinkItem>
+          </LinkList>
+
+
+
+<LinkList>
+
+<SubHeader>live history</SubHeader>
+
+<LinkItem>
+<LinkItem>
+<LinkItem>
+            <Link href="https://youtu.be/J0ILaFKOKEM?si=03bnwMk3qnrIBB7p."><u>battle milk</u> with pat e, but worse<br/>tranzac living room // sept. 13 2024</Link>
+         <Description>video credit: andrew</Description>
+          </LinkItem>
+            <Link href="https://youtu.be/J0ILaFKOKEM?si=03bnwMk3qnrIBB7p."><u>battle milk</u> with pat e, but worse<br/>tranzac living room // sept. 13 2024</Link>
+         <Description>video credit: andrew</Description>
+          </LinkItem>
+          <LinkItem>
+            <Link href=""><u>battle milk</u> with boil the toad, sundowner<br/>tail of the junction // july 12 2024</Link>
+         <Description>video credit: none</Description>
+          </LinkItem>
+
+          <LinkItem>
+          <Link href=""><u>brian fog</u> with proxima centauri, sacred wound, tajae, plastic heart surgery <br/> tail of the junction // may 23 2024</Link>
+            <Description>video credit: me</Description>
+          </LinkItem>
+
+          <LinkItem>
+          <Link href=""><u>brian fog</u> with important hair, john waters' mustache, part parasite <br/> the yeti cafe (kitchener) // may 17 2024</Link>
+            <Description>video credit: me</Description>
+          </LinkItem>
+
+            <Link href="https://www.youtube.com/watch?v=K9uhxRw5sWc&ab_channel=Dddddd"><u>brian fog</u> with ex-corpse, liz lima, escote <br/>bar orwell // march 28 2024 </Link>
+            <Description>video credit: blash</Description>
+          </LinkItem>
+
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=hG4b4gXPIbk&ab_channel=AndrewP."><u>battle milk feat. marilyn</u> with new chance, kevin crump<br/>tranzac living room (philip's bday) // mar. 20 2024</Link>
+         <Description>video credit: andrew</Description>
+          </LinkItem>
+
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=1TUQ1Fus6qo&ab_channel=MechForestSound"><u>battle milk</u> with soup<br/>wenona lodge (track could bend #87) // jan. 2 2024</Link>
+         <Description>video credit: joe strutt (mechanical forest sound)</Description>
+          </LinkItem>
+
+          <LinkItem>
+          <Link href=""><u>brian fog</u> with important hair, ex-corpse, geopatra <br/> doors pub hamilton (noise night) // dec. 9 2023</Link>
+            <Description>video credit: me</Description>
+          </LinkItem>
+
+<LinkItem>
+
+<Link href="https://www.youtube.com/watch?v=Qac0MhMBNTY&t=616s&pp=ygUQYnJpYW4gZm9nIG9yd2VsbA%3D%3D"><u>brian fog</u> with brian ruryk, lava gland, density creep <br/> bar orwell // dec. 3 2023</Link>
+            <Description>video credit: blash</Description>
+          </LinkItem>
+
+<LinkItem>lava gland with brian fog, brian ruryk, density creep<br/>bar orwell // dec. 3 2023
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=-_pLFYoa9QI&pp=ygUVbGF2YSBnbGFuZCBiYXIgb3J3ZWxs">1</Link>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=Alm04osfE2s&pp=ygUVbGF2YSBnbGFuZCBiYXIgb3J3ZWxs">2</Link>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=GDN_7XDVB80&pp=ygUVbGF2YSBnbGFuZCBiYXIgb3J3ZWxs">3</Link>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=26_NHtIvmTU&pp=ygUVbGF2YSBnbGFuZCBiYXIgb3J3ZWxs">4</Link>
+          </LinkItem>
+          <Description>video credit: blash</Description>
+
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=v20DUdyBDjU&ab_channel=JamesP">brian champagne <br/>koiwa bushbash (tokyo) // march 2020</Link>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?app=desktop&feature=youtu.be&v=K9xBJ5WtOe0">brian champagne <br/>pit bar nishiogikubo (tokyo) // feb 2020</Link>
+          </LinkItem>
+  
+</LinkList>
+
+
+     
+        
+
+        <SubHeader>misc</SubHeader>
+        <LinkList>
+        <LinkItem>
             <Link href="https://www.mixcloud.com/SuperJen/more-noise-please-11-29-23-with-density-creep-brian-fog-brian-ruryk/">
                 Brian Ruryk, Density Creep (1/2 of battle milk) and Brian Fog live on More Noise Please Met Radio CJRU.ca</Link>
           </LinkItem>
           <Description>Thank u SuperJen!</Description>
-        </LinkList>
-
-        <SubHeader>Postictal</SubHeader>
-
-        <LinkList>
-          <LinkItem>
-            <Link href="https://www.instagram.com/postictal__/">Postictal Instagrm</Link>
-         <Description> electronic proj slowly becoming something .</Description>
-          </LinkItem>
-        </LinkList>
-
-
-        <SubHeader>Battle Milk</SubHeader>
-        <LinkList>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=1TUQ1Fus6qo&ab_channel=MechForestSound">battle milk 1st show - live at Wenona Lodge (Track Could Bend Number 87)</Link>
-         <Description>Thank you Joe!</Description>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=hG4b4gXPIbk&ab_channel=AndrewP.">battle milk 2nd show - live at Tranzac Living Room </Link>
-            <Description>Happy Bday Philip - thx Andrew)) </Description>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://youtu.be/J0ILaFKOKEM?si=03bnwMk3qnrIBB7p.">battle milk 4th show - live at Tranzac Living Room </Link>
-            <Description>thx Andrew)) </Description>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://battlemilk.bandcamp.com">battle milk Bandcamp</Link>
-          </LinkItem>
-        </LinkList>
-        
-        <SubHeader>Lava Gland</SubHeader>
-        <LinkList>
-          <LinkItem>
-            <Link href="https://lavagland.bandcamp.com/album/if-youre-not-going-to-eat-them-why-kill-them">Lava Gland Bandcamp</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.instagram.com/lava_gland/">Lava Gland Instagram</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=-_pLFYoa9QI&pp=ygUVbGF2YSBnbGFuZCBiYXIgb3J3ZWxs">LG first show at Bar Orwell Pt. 1</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=Alm04osfE2s&pp=ygUVbGF2YSBnbGFuZCBiYXIgb3J3ZWxs">LG first show at Bar Orwell Pt. 2</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=GDN_7XDVB80&pp=ygUVbGF2YSBnbGFuZCBiYXIgb3J3ZWxs">LG first show at Bar Orwell Pt. 3</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=26_NHtIvmTU&pp=ygUVbGF2YSBnbGFuZCBiYXIgb3J3ZWxs">LG first show at Bar Orwell Pt. 4</Link>
-          </LinkItem>
-          <Description>Thank u Blash Belmar for all LG vids</Description>
-        </LinkList>
-
       
-
-        <SubHeader>Mite </SubHeader>
-        <LinkList>
-          <LinkItem>
-            <Link href="https://mitehole.bandcamp.com/">Mite bandcamp</Link>
-            <Description>MY other, older solo project</Description>
-          </LinkItem>            
-          {/* <LinkItem>
-            <Link href="#">Link 3</Link>
-          </LinkItem> */}
-        </LinkList>
-
-        <SubHeader>Traumatic Acid</SubHeader>
-        <Description>2/3 of Lava Gland </Description>
-        <LinkList>
-          <LinkItem>
-            <Link href="https://traumaticacid.bandcamp.com/">Traumatic Acid Bandcamp</Link>
-          </LinkItem>
-          {/* <LinkItem>
-            <Link href="#">Link 2</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="#">Link 3</Link>
-          </LinkItem> */}
-        </LinkList>
-
-        <SubHeader>Brian Champagne</SubHeader>
-        <LinkList>
-          <LinkItem>
-            <Link href="https://brianchampagne.bandcamp.com/">Brian Champagne Bandcamp</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?app=desktop&feature=youtu.be&v=K9xBJ5WtOe0">Brian Champagne Live at Pit Bar Nishiogikubo Feb 2020 (i think)</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=v20DUdyBDjU&ab_channel=JamesP">Brian Champagne Live at Koiwa BushBash March 2020 (i think)</Link>
-          </LinkItem>
-        </LinkList>
-
-        <SubHeader>Misc</SubHeader>
-        <LinkList>
-          <LinkItem>
-            <Link href="https://bonecrate.bandcamp.com/album/the-wrestling-noise-compiliation-vol-2">Bone Crate - Wrestling Noise Compilation</Link>
-          <Description>feat. BRIAN FOG - EXTICTRANFM </Description>
-          </LinkItem>
+       
           {/* <LinkItem>
             <Link href="#">Link 2</Link>
           </LinkItem>
@@ -165,9 +165,7 @@ function LinkTree() {
         </LinkList>
 
         <SubHeader>Stuff I Like</SubHeader>
-        <LinkList>
-        <Description>*i do not necessarily subscribe to every single thought, belief, feeling etc. of every single person or page listed below . but maybe i do for some. ok?*</Description>
-        </LinkList>
+
 
         <SubHeader>Youtube Channels</SubHeader>
         <Description>channel name w/ fav or example videos</Description>
