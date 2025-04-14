@@ -71,21 +71,33 @@ function LinkTree() {
 
 <LinkItem>
 <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=AcmC6m0KqxY&ab_channel=MusicLover"><u>battle milk</u> with tommy tone, garlic jr, body butter<br/>low bar ()// apr. 4, 2025</Link>
+         <Description>video credit: tommy tone</Description>
+          </LinkItem>
+          <LinkItem>
 <LinkItem>
-            <Link href="https://youtu.be/J0ILaFKOKEM?si=03bnwMk3qnrIBB7p."><u>battle milk</u> with pat e, but worse<br/>tranzac living room // sept. 13 2024</Link>
-         <Description>video credit: andrew</Description>
+<Link href="https://www.instagram.com/p/DIO_k8bx-ej/?img_index=1"><u>postictal</u> with too many to name<br/>the bridge (ukai projects farewell to the bridge) // march 29 2025</Link>
+<Description>video credit: me</Description>
+          </LinkItem>
+<LinkItem>
+            <Link href="https://youtu.be/J0ILaFKOKEM?si=03bnwMk3qnrIBB7p."><u>battle milk</u> with but worse, new time more words<br/>tranzac living room (philip's bday again)// mar. 20 2025</Link>
+         <Description>video credit: various (see post)</Description>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://www.youtube.com/watch?v=5tw1lRVRd68"><u>battle milk</u> with ben bennett / raphael foisy / karen ng, erik laska<br/>tranzac living room (fuzzfest 2.0)// dec. 12 2024</Link>
+         <Description>video credit: joe strutt (mechanical forest sound)</Description>
           </LinkItem>
             <Link href="https://youtu.be/J0ILaFKOKEM?si=03bnwMk3qnrIBB7p."><u>battle milk</u> with pat e, but worse<br/>tranzac living room // sept. 13 2024</Link>
          <Description>video credit: andrew</Description>
           </LinkItem>
           <LinkItem>
-            <Link href=""><u>battle milk</u> with boil the toad, sundowner<br/>tail of the junction // july 12 2024</Link>
-         <Description>video credit: none</Description>
+            <Link href="https://www.instagram.com/p/C-YUssJyuDj/?img_index=1"><u>battle milk</u> with boil the toad, sundowner<br/>tail of the junction // july 12 2024</Link>
+         <Description>video credit: various</Description>
           </LinkItem>
 
           <LinkItem>
-          <Link href=""><u>brian fog</u> with proxima centauri, sacred wound, tajae, plastic heart surgery <br/> tail of the junction // may 23 2024</Link>
-            <Description>video credit: me</Description>
+          <Link href="https://www.instagram.com/p/C7nJyv4vZke/?img_index=1"><u>brian fog</u> with proxima centauri, sacred wound, tajae, plastic heart surgery <br/> tail of the junction (armageddon) // may 23 2024</Link>
+            <Description>video credit: various (see post)</Description>
           </LinkItem>
 
           <LinkItem>
@@ -93,7 +105,7 @@ function LinkTree() {
             <Description>video credit: me</Description>
           </LinkItem>
 
-            <Link href="https://www.youtube.com/watch?v=K9uhxRw5sWc&ab_channel=Dddddd"><u>brian fog</u> with ex-corpse, liz lima, escote <br/>bar orwell // march 28 2024 </Link>
+            <Link href="https://www.youtube.com/watch?v=K9uhxRw5sWc&ab_channel=Dddddd"><u>brian fog</u> with ex-corpse, liz lima / del stephen, escote <br/>bar orwell // march 28 2024 </Link>
             <Description>video credit: blash</Description>
           </LinkItem>
 
@@ -108,7 +120,7 @@ function LinkTree() {
           </LinkItem>
 
           <LinkItem>
-          <Link href=""><u>brian fog</u> with important hair, ex-corpse, geopatra <br/> doors pub hamilton (noise night) // dec. 9 2023</Link>
+          <Link href=""><u>brian fog</u> with important hair, ex-corpse, geopatra <br/> doors pub hamilton (honeyboiler oise night) // dec. 9 2023</Link>
             <Description>video credit: me</Description>
           </LinkItem>
 
@@ -135,7 +147,7 @@ function LinkTree() {
 
           </LinkItem>
           <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=v20DUdyBDjU&ab_channel=JamesP">brian champagne <br/>koiwa bushbash (tokyo) // march 2020</Link>
+            <Link href="https://www.youtube.com/watch?v=v20DUdyBDjU&ab_channel=JamesP">brian champagne <br/>koiwa bushbash (tokyo)<br/> // march 2020</Link>
           </LinkItem>
           <LinkItem>
             <Link href="https://www.youtube.com/watch?app=desktop&feature=youtu.be&v=K9xBJ5WtOe0">brian champagne <br/>pit bar nishiogikubo (tokyo) // feb 2020</Link>
@@ -151,23 +163,17 @@ function LinkTree() {
         <LinkList>
         <LinkItem>
             <Link href="https://www.mixcloud.com/SuperJen/more-noise-please-11-29-23-with-density-creep-brian-fog-brian-ruryk/">
-                Brian Ruryk, Density Creep (1/2 of battle milk) and Brian Fog live on More Noise Please Met Radio CJRU.ca</Link>
+                brian ruryk, density creep, brian fog on more noise please met radio cjru.ca</Link>
           </LinkItem>
-          <Description>Thank u SuperJen!</Description>
+          <Description>thank you to superjen (more noise please) for having me</Description>
       
        
-          {/* <LinkItem>
-            <Link href="#">Link 2</Link>
-          </LinkItem>
-          <LinkItem>
-            <Link href="#">Link 3</Link>
-          </LinkItem> */}
         </LinkList>
 
-        <SubHeader>Stuff I Like</SubHeader>
+        <SubHeader>even more misc stuff</SubHeader>
 
 
-        <SubHeader>Youtube Channels</SubHeader>
+        <SubHeader>youtube</SubHeader>
         <Description>channel name w/ fav or example videos</Description>
 
         <LinkList>
@@ -177,13 +183,13 @@ function LinkTree() {
           </LinkItem>
           <LinkBox>
           <SubLink>
-            <Link href="https://www.youtube.com/watch?v=uCH9cx3hrbM">One Decade to Midnight (part 1): Problematique</Link>
+            <Link href="https://www.youtube.com/watch?v=uCH9cx3hrbM">one decade to midnight (part 1): problematique</Link>
           </SubLink>
           <SubLink>
-            <Link href="https://www.youtube.com/watch?v=2VTvnWE0oJc">One Decade to Midnight (part 2): Polycrisis</Link>
+            <Link href="https://www.youtube.com/watch?v=2VTvnWE0oJc">one decade to midnight (part 2): polycrisis</Link>
           </SubLink>
           <SubLink>
-            <Link href="https://www.youtube.com/watch?v=YRkBrfvNKVE">One Decade to Midnight (part 3): Failure Cascade</Link>
+            <Link href="https://www.youtube.com/watch?v=YRkBrfvNKVE">one decade to midnight (part 3): failure cascade</Link>
           </SubLink>
           </LinkBox>
           </LinkList>
@@ -192,12 +198,12 @@ function LinkTree() {
 
         <LinkList>
           <LinkItem>
-            <SubSubHeader>Metaphysical Exile</SubSubHeader>
+            <SubSubHeader>metaphysical exile</SubSubHeader>
 
           </LinkItem>
           <LinkBox>
           <SubLink>
-            <Link href="https://www.youtube.com/watch?v=V6XMSQuxZgk">Nature's Unluckiest Children</Link>
+            <Link href="https://www.youtube.com/watch?v=V6XMSQuxZgk">nature's unluckiest children</Link>
           </SubLink>
           </LinkBox>
 
