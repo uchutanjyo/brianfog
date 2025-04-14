@@ -57,6 +57,12 @@ function LinkTree() {
           <LinkItem>
             <Link href="https://brianchampagne.bandcamp.com/">brian champagne</Link>
           </LinkItem>
+
+          <LinkItem>
+            <Link href="https://senselesssensibilities.bandcamp.com/album/24-05-17-live-at-the-yeti
+">senseless sensibilities 24/05/17 live at the yeti (kitchener/waterloo noise concert series)</Link>
+          <Description>incl. brian fog - untitled (full set from may 17 2024)</Description>
+          </LinkItem>
           <LinkItem>
             <Link href="https://bonecrate.bandcamp.com/album/the-wrestling-noise-compiliation-vol-2">bone crate - wrestling noise compilation</Link>
           <Description>feat. BRIAN FOG - EXTICTRANFM </Description>
@@ -80,7 +86,7 @@ function LinkTree() {
 <Description>video credit: me</Description>
           </LinkItem>
 <LinkItem>
-            <Link href="https://youtu.be/J0ILaFKOKEM?si=03bnwMk3qnrIBB7p."><u>battle milk</u> with but worse, new time more words<br/>tranzac living room (philip's bday again)// mar. 20 2025</Link>
+            <Link href="https://www.instagram.com/p/DHgO4DzxrOc/?img_index=1"><u>battle milk feat. vic</u> with but worse, new time more words<br/>tranzac living room (philip's bday again)// mar. 20 2025</Link>
          <Description>video credit: various (see post)</Description>
           </LinkItem>
           <LinkItem>
@@ -101,8 +107,8 @@ function LinkTree() {
           </LinkItem>
 
           <LinkItem>
-          <Link href=""><u>brian fog</u> with important hair, john waters' mustache, part parasite <br/> the yeti cafe (kitchener) // may 17 2024</Link>
-            <Description>video credit: me</Description>
+          <Link href="https://www.instagram.com/p/C7NL0zittjd/?img_index=1"><u>brian fog</u> with important hair, john waters' mustache, part parasite <br/> the yeti cafe (kitchener) // may 17 2024</Link>
+            <Description>video credit: me, imp't hair</Description>
           </LinkItem>
 
             <Link href="https://www.youtube.com/watch?v=K9uhxRw5sWc&ab_channel=Dddddd"><u>brian fog</u> with ex-corpse, liz lima / del stephen, escote <br/>bar orwell // march 28 2024 </Link>
@@ -120,8 +126,8 @@ function LinkTree() {
           </LinkItem>
 
           <LinkItem>
-          <Link href=""><u>brian fog</u> with important hair, ex-corpse, geopatra <br/> doors pub hamilton (honeyboiler oise night) // dec. 9 2023</Link>
-            <Description>video credit: me</Description>
+          <Link href="https://www.instagram.com/p/C0uvYMvpyUy/"><u>brian fog</u> with important hair, ex-corpse, geopatra <br/> doors pub hamilton (honeyboiler oise night) // dec. 9 2023</Link>
+            <Description>video credit: various (see several posts)</Description>
           </LinkItem>
 
 <LinkItem>
