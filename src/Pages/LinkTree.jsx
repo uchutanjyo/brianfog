@@ -176,6 +176,35 @@ function LinkTree() {
        
         </LinkList>
 
+        <SubHeader>related/affiliated/appreciated labels/promoters/collectives</SubHeader>
+        <LinkList>
+        <LinkItem>
+            <Link href="https://www.instagram.com/more_noise_please/
+">more noise please</Link>
+          <Description>radio show & live noise show series</Description>
+          </LinkItem>
+        <LinkItem>
+            <Link href="https://www.instagram.com/borschtrecords/
+">borscht records</Link>
+          <Description>experimental electronic label/radio station</Description>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://earlobe.ca/
+
+">earlobe</Link>
+          <Description>website listing experimental events</Description>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://www.instagram.com/ministryphonic/
+">ministry of phonic services</Link>
+          <Description>experimental label and concert organizer</Description>
+          </LinkItem>
+        <LinkItem>
+            <Link href="https://www.instagram.com/senseless.sensibilities/
+">senseless sensibilities</Link>
+          <Description>kitchener/waterloo noise concert series</Description>
+          </LinkItem>
+          </LinkList>
         <SubHeader>even more misc stuff</SubHeader>
 
 
