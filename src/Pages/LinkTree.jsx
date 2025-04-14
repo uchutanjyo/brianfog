@@ -202,7 +202,13 @@ function LinkTree() {
         <LinkItem>
             <Link href="https://www.instagram.com/senseless.sensibilities/
 ">senseless sensibilities</Link>
-          <Description>kitchener/waterloo noise concert series</Description>
+          <Description>kitchener/waterloo, ON noise concert series</Description>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://www.instagram.com/honeyboiler/
+
+">honeyboiler</Link>
+          <Description>hamilton, ON dark events</Description>
           </LinkItem>
           </LinkList>
         <SubHeader>even more misc stuff</SubHeader>
