@@ -175,7 +175,7 @@ function LinkTree() {
       
        
         </LinkList>
-
+        https://www.instagram.com/degeneralstrike?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
         <SubHeader>related/affiliated/appreciated labels/promoters/collectives</SubHeader>
         <LinkList>
         <LinkItem>
@@ -183,7 +183,14 @@ function LinkTree() {
 ">more noise please</Link>
           <Description>radio show & live noise show series</Description>
           </LinkItem>
+          <LinkItem>
+        
+            <Link href="https://www.instagram.com/degeneralstrike/
+">degeneral strike</Link>
+          <Description>techno/punk etc. parties, raves</Description>
+          </LinkItem>
         <LinkItem>
+        
             <Link href="https://www.instagram.com/borschtrecords/
 ">borscht records</Link>
           <Description>experimental electronic label/radio station</Description>
@@ -215,14 +222,45 @@ function LinkTree() {
 
 
         <SubHeader>youtube</SubHeader>
-        <Description>channel name w/ fav or example videos</Description>
+        <Description>channel/person name w/ fav or example videos</Description>
 
+
+        <LinkBox>
         <LinkList>
           <LinkItem>
-   <SubSubHeader>Georg Rockall-Schmidt</SubSubHeader>
+            <SubSubHeader>william rees</SubSubHeader>
+<Description>population ecologist, outspoken on the topic of ecological overshoot. highly recommended for understanding where we (humans) are and where we're going (away, in large part)</Description>
+          </LinkItem>
+          <SubLink>
+            <Link href="        https://www.youtube.com/watch?v=3MVmkIYy9aI&t=4091s&ab_channel=OVERSHOOT%7CShrinkTowardAbundance
+
+">on the <i>overshoot</i> podcast</Link>
+          </SubLink>
+          </LinkList>
+          </LinkBox>
+
+
+          <LinkBox>
+        <LinkList>
+          <LinkItem>
+            <SubSubHeader>andrea p.</SubSubHeader>
+<Description>one of the very best channels on ecological overshoot/collapse</Description>
+          </LinkItem>
+          <SubLink>
+            <Link href="https://www.youtube.com/@aep19
+">all are worth watching.</Link>
+          </SubLink>
+          </LinkList>
+          </LinkBox>
+
+
+          <LinkBox>
+        <LinkList>
+          <LinkItem>
+   <SubSubHeader>georg rockall-schmidt</SubSubHeader>
+   <Description>film review/dry humour channel w/ 'good' social commentary</Description>
 
           </LinkItem>
-          <LinkBox>
           <SubLink>
             <Link href="https://www.youtube.com/watch?v=uCH9cx3hrbM">one decade to midnight (part 1): problematique</Link>
           </SubLink>
@@ -232,20 +270,21 @@ function LinkTree() {
           <SubLink>
             <Link href="https://www.youtube.com/watch?v=YRkBrfvNKVE">one decade to midnight (part 3): failure cascade</Link>
           </SubLink>
-          </LinkBox>
           </LinkList>
+          </LinkBox>
 
 
-
+          <LinkBox>
         <LinkList>
           <LinkItem>
             <SubSubHeader>metaphysical exile</SubSubHeader>
+            <Description>one of the good pessimist channels</Description>
 
           </LinkItem>
-          <LinkBox>
           <SubLink>
             <Link href="https://www.youtube.com/watch?v=V6XMSQuxZgk">nature's unluckiest children</Link>
           </SubLink>
+          </LinkList>
           </LinkBox>
 
 
@@ -253,7 +292,6 @@ function LinkTree() {
           
           
       
-        </LinkList>
       </Container>
     );
   }

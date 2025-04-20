@@ -2,7 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 
 export const Container = styled.div`
-  max-width: 600px;
+  max-width: 700px;
   margin: 0 auto;
   padding: 20px;
   text-align: center;
@@ -68,7 +68,9 @@ margin-bottom: 20px
 
 export const LinkBox = styled.div`
   /* padding: 1em; */
+  padding-top: 1em;
   border: 1px dotted #737373;
   display: flex;
 flex-direction: column;
+margin-bottom: 1em
   `;
