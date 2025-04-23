@@ -175,7 +175,6 @@ function LinkTree() {
       
        
         </LinkList>
-        https://www.instagram.com/degeneralstrike?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==
         <SubHeader>related/affiliated/appreciated labels/promoters/collectives</SubHeader>
         <LinkList>
         <LinkItem>
