@@ -1,7 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
@@ -15,11 +18,15 @@
 
 a {
   font-weight: 500;
-  color: rgb(148, 120, 195);
+  color: rgb(231, 218, 255);
   /* text-decoration: inherit; */
 }
 a:hover {
-  color: #535bf2;
+  color: #f2d253;
+}
+
+a:visited{
+  color: #a38383
 }
 
 body {

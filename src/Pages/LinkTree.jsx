@@ -3,7 +3,7 @@ import {Container, Header, SubHeader, Link, LinkList, LinkItem, Description, Sub
 function LinkTree() {
     return (
       <Container>
-                <Header>MATT E PROJECTS ETC.</Header>
+                <Header>マットのホームページ</Header>
 
 
 <SubHeader>*SPECIAL*</SubHeader>
@@ -228,7 +228,7 @@ function LinkTree() {
         <LinkList>
           <LinkItem>
             <SubSubHeader>william rees</SubSubHeader>
-<Description>population ecologist, outspoken on the topic of ecological overshoot. highly recommended for understanding where we (humans) are and where we're going (away, in large part)</Description>
+<Description>population ecologist, outspoken on the topic of ecological overshoot</Description>
           </LinkItem>
           <SubLink>
             <Link href="        https://www.youtube.com/watch?v=3MVmkIYy9aI&t=4091s&ab_channel=OVERSHOOT%7CShrinkTowardAbundance
@@ -257,7 +257,7 @@ function LinkTree() {
         <LinkList>
           <LinkItem>
    <SubSubHeader>georg rockall-schmidt</SubSubHeader>
-   <Description>film review/dry humour channel w/ 'good' social commentary</Description>
+   <Description>film review/dry humour/social commentary/collapse</Description>
 
           </LinkItem>
           <SubLink>

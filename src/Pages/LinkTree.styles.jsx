@@ -13,18 +13,20 @@ export const Container = styled.div`
 }
 `;
 
-export const Header = styled.h1`
-  color: #79adb4;
-`;
+export const Header = styled.h2`
+  color: #cb6f6f;
+  font-family: "Work Sans", sans-serif;
 
-export const SubHeader = styled.h3`
-  color: #4a8581;
-  text-decoration: underline;
+  `;
+
+export const SubHeader = styled.h4`
+color: #cb6f6f;
+text-decoration: underline;
 
 `;
 
 export const SubSubHeader = styled.div`
-  color: #709896;
+  color: #a74141;
 `;
 
 export const LinkList = styled.div`
@@ -33,7 +35,8 @@ padding: 0;
 margin-bottom: 50px;
 display: flex;
 flex-direction: column;
-color: white
+color: white;
+font-family: "Work Sans", sans-serif;
 `;
 
 export const LinkItem = styled.div`
