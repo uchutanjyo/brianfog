@@ -4,28 +4,18 @@ function LinkTree() {
     return (
       <Container>
                 <Header>マットのホームページ</Header>
-
+<Description>links to all my project s and a bunch of stuff i like  said in monotonous voice <br/>
+everything music-related below is toronto-based unless otherwise noted. 
+LAST UPDATED SEP 8 2025</Description>
 
 <SubHeader>*SPECIAL*</SubHeader>
         <LinkList>
         <LinkBox>
-                 {/* <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=1TUQ1Fus6qo&ab_channel=MechForestSound">battle milk 1st show - live at Wenona Lodge (Track Could Bend Number 87)</Link>
-         <Description>Thank you Joe!</Description>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://www.youtube.com/watch?v=hG4b4gXPIbk&ab_channel=AndrewP.">battle milk 2nd show - live at Tranzac Living Room </Link>
-            <Description>Happy Bday Philip - thx Andrew)) </Description>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://battlemilk.bandcamp.com">battle milk Bandcamp -coming</Link>
-          </LinkItem> */}
+      
           <SubSubHeader>shows coming up</SubSubHeader>
-          <LinkItem>MONTREAL IN JUNE  KITCHENER IN JUNE
+          <LinkItem>NOTHING
           </LinkItem>
-          {/* <br/>
-          <br/>
-          <br/> */}
+  
 </LinkBox>
           {/* <LinkItem>
         <Link href="personalsite">2003-style prsonal website</Link>
@@ -35,40 +25,60 @@ function LinkTree() {
 
                 <LinkList>
 
-        <SubHeader>bandcamp links</SubHeader>
+        <SubHeader>active projects</SubHeader>
         <LinkItem>
-            <Link href="https://postictal.bandcamp.com/">postictal (no tracks completed yet)</Link>
-          </LinkItem>
-        <LinkItem>
-            <Link href="https://brianfog.bandcamp.com/">brian fog</Link>
+            <Link href="https://postictal91.bandcamp.com/">postictal</Link>
+            <Description>electronic music (borscht records)</Description>
           </LinkItem>
           <LinkItem>
-            <Link href="https://brianfog.bandcamp.com/">battle milk</Link>
+            <Link href="https://vagus91.bandcamp.com/">vagus </Link>
+            <Description>solo noise project - no drums (page does not exist yet)</Description>
           </LinkItem>
           <LinkItem>
-            <Link href="https://mitehole.bandcamp.com/">mite (earlier solo project)</Link>
+            <Link href="https://battlemilk.bandcamp.com/">battle milk</Link>
+            <Description>noise milk duo</Description>
+          </LinkItem>
+        <LinkItem>
+            <Link href="https://vogsyet.bandcamp.com/">vog syet</Link>
+            <Description>black metal (page does not exist yet; demo to be released soon)</Description>          
+          </LinkItem>
+        
+        
+       
+         
+          </LinkList>
+
+          <LinkList>
+          <SubHeader>somewhat inactive projects</SubHeader>
+          <LinkItem>
+
+
+          <Link href="https://brianfog.bandcamp.com/">brian fog</Link>
+            <Description>solo drum n noise</Description>
+
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://mitehole.bandcamp.com/">mite</Link>
+            <Description>older solo project - various styles</Description>
+
           </LinkItem>
           <LinkItem>
             <Link href="https://lavagland.bandcamp.com/">lava gland</Link>
+            <Description>improvised noise rock</Description>
+
           </LinkItem>
           <LinkItem>
             <Link href="https://traumaticacid.bandcamp.com/">traumatic acid</Link>
+            <Description>improvised noise rock (2/3 lava gland)</Description>
+
           </LinkItem>
           <LinkItem>
             <Link href="https://brianchampagne.bandcamp.com/">brian champagne</Link>
+            <Description>tokyo improvised noise rock/no wave</Description>
+
           </LinkItem>
 
-          <LinkItem>
-            <Link href="https://senselesssensibilities.bandcamp.com/album/24-05-17-live-at-the-yeti
-">senseless sensibilities 24/05/17 live at the yeti (kitchener/waterloo noise concert series)</Link>
-          <Description>incl. brian fog - untitled (full set from may 17 2024)</Description>
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://bonecrate.bandcamp.com/album/the-wrestling-noise-compiliation-vol-2">bone crate - wrestling noise compilation</Link>
-          <Description>feat. BRIAN FOG - EXTICTRANFM </Description>
-          </LinkItem>
           </LinkList>
-
 
 
 <LinkList>
@@ -77,12 +87,24 @@ function LinkTree() {
 
 <LinkItem>
 <LinkItem>
+<LinkItem>
+<Link href=""><u>battle milk</u> with brian ruryk & %%30%30, fossils, xodkaar & autofeeder<br/>under hogg's hollow (ministry of phonic services 'outside' album release show) // july 19 2025 (coming soon)</Link>
+<Description>video credit: </Description>
+          </LinkItem>
+          <LinkItem>
+<Link href=""><u>vagus</u> with density creep, xodkaar, important hair & without feathers<br/> tranzac living room (tape release party) // july 18 2025 (coming soon)</Link>
+<Description>video credit: </Description>
+          </LinkItem>
+          <LinkItem>
+<Link href=""><u>battle milk</u> with pet retina, i.o, eliminate by night, robert (senseless senisibilties rock music for people who don't like rock music)<br/> the union, kitchener, on //  june 1 2025(coming soon)</Link>
+<Description>video credit: </Description>
+          </LinkItem>
             <Link href="https://www.youtube.com/watch?v=AcmC6m0KqxY&ab_channel=MusicLover"><u>battle milk</u> with tommy tone, garlic jr, body butter<br/>low bar ()// apr. 4, 2025</Link>
          <Description>video credit: tommy tone</Description>
           </LinkItem>
           <LinkItem>
 <LinkItem>
-<Link href="https://www.instagram.com/p/DIO_k8bx-ej/?img_index=1"><u>postictal</u> with too many to name<br/>the bridge (ukai projects farewell to the bridge) // march 29 2025</Link>
+<Link href="https://www.instagram.com/p/DIO_k8bx-ej/?img_index=1"><u>vagus</u> with too many to name<br/>the bridge (ukai projects farewell to the bridge) // march 29 2025</Link>
 <Description>video credit: me</Description>
           </LinkItem>
 <LinkItem>
@@ -171,8 +193,18 @@ function LinkTree() {
             <Link href="https://www.mixcloud.com/SuperJen/more-noise-please-11-29-23-with-density-creep-brian-fog-brian-ruryk/">
                 brian ruryk, density creep, brian fog on more noise please met radio cjru.ca</Link>
           </LinkItem>
+          
           <Description>thank you to superjen (more noise please) for having me</Description>
       
+          <LinkItem>
+            <Link href="https://senselesssensibilities.bandcamp.com/album/24-05-17-live-at-the-yeti
+">senseless sensibilities 24/05/17 live at the yeti</Link>
+          <Description>incl. brian fog - untitled (full set from may 17 2024)</Description>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://bonecrate.bandcamp.com/album/the-wrestling-noise-compiliation-vol-2">bone crate - wrestling noise compilation</Link>
+          <Description>feat. BRIAN FOG - EXTICTRANFM </Description>
+          </LinkItem>
        
         </LinkList>
         <SubHeader>related/affiliated/appreciated labels/promoters/collectives</SubHeader>
@@ -194,6 +226,13 @@ function LinkTree() {
 ">borscht records</Link>
           <Description>experimental electronic label/radio station</Description>
           </LinkItem>
+          <LinkItem>
+        
+        <Link href="http://mechanicalforestsound.blogspot.com/
+
+">mechanical forest sound</Link>
+      <Description>archive of local 'independent music'; organizer of monthly track could bend</Description>
+      </LinkItem>
           <LinkItem>
             <Link href="https://earlobe.ca/
 
