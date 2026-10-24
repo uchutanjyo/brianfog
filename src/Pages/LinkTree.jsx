@@ -4,17 +4,19 @@ function LinkTree() {
     return (
       <Container>
                 <Header>マットのホームページ</Header>
-<Description>links to all my project s and a bunch of stuff i like  said in monotonous voice <br/>
+<Description>links to all my project s and a bunch of stuff i like  said in  <br/>
 everything music-related below is toronto-based unless otherwise noted. 
-LAST UPDATED SEP 8 2025</Description>
+LAST UPDATED october 24, 2026</Description>
 
 <SubHeader>*SPECIAL*</SubHeader>
         <LinkList>
         <LinkBox>
       
           <SubSubHeader>shows coming up</SubSubHeader>
-          <LinkItem>NOTHING
-          </LinkItem>
+          <Link href="https://instagram.com/">VOG SYET </Link>
+          <Description>first show - nov 21 - newmarket</Description>
+          <Link href="https://instagram.com/">BATTLEMILK</Link>
+            <Description>nov 26 - the jama</Description>
   
 </LinkBox>
           {/* <LinkItem>
@@ -28,20 +30,31 @@ LAST UPDATED SEP 8 2025</Description>
         <SubHeader>active projects</SubHeader>
         <LinkItem>
             <Link href="https://postictal91.bandcamp.com/">postictal</Link>
-            <Description>electronic music (borscht records)</Description>
+            <Description>electronic music. tracks released on borscht records.</Description>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://vogsyet.bandcamp.com/">vog syet</Link>
+            <Description>black metal/punk. debut EP 'Feast of Dregs' released July 31, 2026. tapes now available.</Description>          
+
+            <LinkItem>
+
+
+<Link href="https://brianfog.bandcamp.com/">brian fog</Link>
+  <Description>solo - drum, noise and vocal.</Description>
+
+</LinkItem>
+<LinkItem>
+            <Link href="https://battlemilk.bandcamp.com/">battle milk</Link>
+            <Description>noise duo.</Description>
+          </LinkItem>
+            
           </LinkItem>
           <LinkItem>
             <Link href="https://vagus91.bandcamp.com/">vagus </Link>
-            <Description>solo noise project - no drums (page does not exist yet)</Description>
+            <Description>solo harsh noise project (page does not exist yet). split tape with density creep available on release yourself recordings. </Description>
           </LinkItem>
-          <LinkItem>
-            <Link href="https://battlemilk.bandcamp.com/">battle milk</Link>
-            <Description>noise milk duo</Description>
-          </LinkItem>
-        <LinkItem>
-            <Link href="https://vogsyet.bandcamp.com/">vog syet</Link>
-            <Description>black metal (page does not exist yet; demo to be released soon)</Description>          
-          </LinkItem>
+          
+      
         
         
        
@@ -50,11 +63,22 @@ LAST UPDATED SEP 8 2025</Description>
 
           <LinkList>
           <SubHeader>somewhat inactive projects</SubHeader>
+        
           <LinkItem>
+            <Link href="https://lavagland.bandcamp.com/">lava gland</Link>
+            <Description>improvised noise rock. 3/4 members of vog syet.</Description>
 
+          </LinkItem>
+       
+     
+          <LinkItem>
+            <Link href="https://traumaticacid.bandcamp.com/">traumatic acid</Link>
+            <Description>improvised noise rock. 2/3 members of lava gland.</Description>
 
-          <Link href="https://brianfog.bandcamp.com/">brian fog</Link>
-            <Description>solo drum n noise</Description>
+          </LinkItem>
+          <LinkItem>
+            <Link href="https://brianchampagne.bandcamp.com/">brian champagne</Link>
+            <Description>tokyo improvised noise rock/no wave. defunct</Description>
 
           </LinkItem>
           <LinkItem>
@@ -62,22 +86,6 @@ LAST UPDATED SEP 8 2025</Description>
             <Description>older solo project - various styles</Description>
 
           </LinkItem>
-          <LinkItem>
-            <Link href="https://lavagland.bandcamp.com/">lava gland</Link>
-            <Description>improvised noise rock</Description>
-
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://traumaticacid.bandcamp.com/">traumatic acid</Link>
-            <Description>improvised noise rock (2/3 lava gland)</Description>
-
-          </LinkItem>
-          <LinkItem>
-            <Link href="https://brianchampagne.bandcamp.com/">brian champagne</Link>
-            <Description>tokyo improvised noise rock/no wave</Description>
-
-          </LinkItem>
-
           </LinkList>
 
 
@@ -87,12 +95,79 @@ LAST UPDATED SEP 8 2025</Description>
 
 <LinkItem>
 <LinkItem>
+
 <LinkItem>
-<Link href=""><u>battle milk</u> with brian ruryk & %%30%30, fossils, xodkaar & autofeeder<br/>under hogg's hollow (ministry of phonic services 'outside' album release show) // july 19 2025 (coming soon)</Link>
+
+<LinkItem>
+
+
+
+<Link href="https://www.instagram.com/p/DdDIw3BjYW5/?img_index=1"><u>battle milk</u> with SHAAANE, sound effects, dame cook<br/> tranzac living room (battle milk/SHAAANE tape release party) // august 14, 2026</Link>
+<Description>video credit: various</Description>
+          </LinkItem>
+
+
+<Link href="https://www.instagram.com/p/DbtjRhMS2Q6/"><u>battle milk</u> with brian ruryk & %%30%30, fossils, xodkaar & autofeeder<br/>st stephen in the field church (coward patrol) // may 9 2026</Link>
+<Description>video credit: sceneinperson</Description>
+          </LinkItem>
+
+<LinkItem>
+
+<Link href="https://www.instagram.com/p/DaA_2oqDhnC/?img_index=1"><u>battle milk</u> with kenmujo, la femme damnee, human nun<br/>demo memo - hamilton, on // june 16, 2026</Link>
+<Description>video credit: various</Description>
+          </LinkItem>
+
+          <LinkItem>
+
+<Link href="https://www.instagram.com/p/DXaS9VKDXNM/?img_index=1"><u>battle milk</u> with SHAAANE and wilderness adventure ride<br/> // march 27, 2026 </Link>
+<Description>video credit: various</Description>
+          </LinkItem>
+
+          <LinkItem>
+
+<Link href="https://www.instagram.com/p/DX-XnS0De9-/?img_index=1"><u>brian fog</u> with evelyn, density creep thresher, important hair<br/> emmanuel united church - waterloo, on (senseless sensibilities presents: holy music vii: rock music 2) // april 24 2026 (coming soon)</Link>
+<Description>video credit: various </Description>
+          </LinkItem>
+
+          <LinkItem>
+
+<Link href="https://www.instagram.com/p/DXUzuThlZGw/?img_index=1"><u>brian fog</u> with jabe ledoux, woolworm, bucket with hole, newtel, smoqeh; visuals by mo:delic arts<br/>BSMT254 (more noise please - LOSE YOURSELF TO NOISE) // march 19, 2026</Link>
+<Description>video credit: various</Description>
+          </LinkItem>
+
+          <LinkItem>
+
+<Link href="https://www.youtube.com/watch?v=qAWQNLJvwWs&list=RDqAWQNLJvwWs&start_radio=1&ab_channel=UchuTanjyo"><u>brian fog</u> with the wakemi, volcano, mosura, __<br/>nakano moonstep 2f - nakano, tokyo, japan // march 3, 2026 (brian fog rainichi raibu)</Link>
+<Description>video credit: shinzo san </Description>
+          </LinkItem>
+
+          <LinkItem>
+
+<Link href="https://www.instagram.com/p/DayNfwDCeE2/?img_index=1"><u>brian fog</u> with BAY CITY ROLAZ, entangle, triangletriangletriangle, evil penguin<br/>forestlimit - shibuya, tokyo, japan (various functions vol 4) // feb 16 2026</Link>
+<Description>video credit: various </Description>
+          </LinkItem>
+
+          <LinkItem>
+
+<Link href="https://www.youtube.com/watch?v=m5JhGfcesG4&list=RDm5JhGfcesG4&start_radio=1"><u>brian fog</u> with RYECROFT, SJOD, gnu boys, tokyo hamu katsu<br/>oriental force - koenji, tokyo, japan // february 12, 2026</Link>
+<Description>video credit: takada san</Description>
+          </LinkItem>
+
+          <LinkItem>
+
+<Link href="https://www.instagram.com/p/DWNE8wYD6kB/?img_index=1"><u>brian fog</u> with various<br/>tranzac southern cross (ministry of phonic services Big Percussion Meeting // december 19 2025</Link>
+<Description>video credit: various </Description>
+          </LinkItem>
+
+//
+
+<LinkItem>
+
+<Link href=""><u>battle milk</u> with brian ruryk & %%30%30, fossils, xodkaar & autofeeder<br/>under hogg's hollow (ministry of phonic services 'outside' album release show) // july 19 2025</Link>
 <Description>video credit: </Description>
           </LinkItem>
           <LinkItem>
-<Link href=""><u>vagus</u> with density creep, xodkaar, important hair & without feathers<br/> tranzac living room (tape release party) // july 18 2025 (coming soon)</Link>
+<Link href=""><u>vagus</u> with density creep, xodkaar, important hair & without feathers<br/> tranzac living room (tape release party) // july 18 2025</Link>
 <Description>video credit: </Description>
           </LinkItem>
           <LinkItem>
@@ -104,7 +179,7 @@ LAST UPDATED SEP 8 2025</Description>
           </LinkItem>
           <LinkItem>
 <LinkItem>
-<Link href="https://www.instagram.com/p/DIO_k8bx-ej/?img_index=1"><u>vagus</u> with too many to name<br/>the bridge (ukai projects farewell to the bridge) // march 29 2025</Link>
+<Link href="https://www.instagram.com/p/DIO_k8bx-ej/?img_index=1"><u>postictal</u> with too many to name<br/>the bridge (ukai projects farewell to the bridge) // march 29 2025</Link>
 <Description>video credit: me</Description>
           </LinkItem>
 <LinkItem>
@@ -207,7 +282,7 @@ LAST UPDATED SEP 8 2025</Description>
           </LinkItem>
        
         </LinkList>
-        <SubHeader>related/affiliated/appreciated labels/promoters/collectives</SubHeader>
+        <SubHeader>people doing cool things</SubHeader>
         <LinkList>
         <LinkItem>
             <Link href="https://www.instagram.com/more_noise_please/
@@ -267,7 +342,7 @@ LAST UPDATED SEP 8 2025</Description>
         <LinkList>
           <LinkItem>
             <SubSubHeader>william rees</SubSubHeader>
-<Description>population ecologist, outspoken on the topic of ecological overshoot</Description>
+<Description>ecological overshoot</Description>
           </LinkItem>
           <SubLink>
             <Link href="        https://www.youtube.com/watch?v=3MVmkIYy9aI&t=4091s&ab_channel=OVERSHOOT%7CShrinkTowardAbundance
@@ -316,7 +391,7 @@ LAST UPDATED SEP 8 2025</Description>
         <LinkList>
           <LinkItem>
             <SubSubHeader>metaphysical exile</SubSubHeader>
-            <Description>one of the good pessimist channels</Description>
+            <Description>philisophical <pessimism></pessimism></Description>
 
           </LinkItem>
           <SubLink>
