@@ -391,7 +391,7 @@ LAST UPDATED october 24, 2026</Description>
         <LinkList>
           <LinkItem>
             <SubSubHeader>metaphysical exile</SubSubHeader>
-            <Description>philisophical <pessimism></pessimism></Description>
+            <Description>favourite philisophical pessimism channel</Description>
 
           </LinkItem>
           <SubLink>
