@@ -107,7 +107,7 @@ LAST UPDATED october 24, 2026</Description>
           </LinkItem>
 
 
-<Link href="https://www.instagram.com/p/DbtjRhMS2Q6/"><u>battle milk</u> with brian ruryk & %%30%30, fossils, xodkaar & autofeeder<br/>st stephen in the field church (coward patrol) // may 9 2026</Link>
+<Link href="https://www.instagram.com/p/DbtjRhMS2Q6/"><u>battle milk</u> with black iron prison, common deceny, grimend<br/>st stephen in the field church (coward patrol) // may 9 2026</Link>
 <Description>video credit: sceneinperson</Description>
           </LinkItem>
 
